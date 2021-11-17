@@ -1,0 +1,12 @@
+export  { default as Header } from './Header'
+export { default as SideBar } from './SideBar'
+export { default as Footer } from './Footer'
+export { default as Home } from './Home'
+export { default as Profile } from './Profile'
+export { default as Contact } from './Contact'
+export { default as Article } from './Article'
+export { default as ReactList } from './ReactList'
+export { default as Confirm } from './Confirm'
+export { default as DisplayLatestPage } from './DisplayLatestPage'
+export { default as Complete } from './Complete'
+
